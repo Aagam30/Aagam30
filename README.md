@@ -1,360 +1,184 @@
-<!-- ========================================================= -->
-<!-- 🔥 AAGAM JAIN - FUTURISTIC AI README 🔥 -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
+# Aagam Jain
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&text=AAGAM%20JAIN&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20AI%20ENGINEER%20%7C%20ML%20ENTHUSIAST&descAlignY=58&descSize=20"/>
+**Computer Science Engineer · Data Engineering · Cloud · AI**
 
-</p>
+*Building systems where data becomes decisions.*
 
-<h1 align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aagamjain18)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aagam8216@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aagam30)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=HEY+👋+I'M+AAGAM+JAIN;DATA+SCIENCE+%26+AI+INNOVATOR;MACHINE+LEARNING+ENTHUSIAST;GENERATIVE+AI+EXPLORER;BUILDING+THE+FUTURE+WITH+AI+🚀"/>
-
-</h1>
+</div>
 
 ---
 
-<p align="center">
+## About
 
-<img src="https://komarev.com/ghpvc/?username=Aagam30&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Aagam30?style=for-the-badge&color=00F7FF"/>
-
-<img src="https://img.shields.io/github/stars/Aagam30?style=for-the-badge&color=blue"/>
-
-</p>
+B.Tech Computer Science student at Arya College of Engineering & IT (2027), focused on building end-to-end data systems — from raw ingestion to analytical intelligence. I work primarily with Azure, Microsoft Fabric, SQL, and Python to design data pipelines and enterprise-grade applications. I'm also exploring Generative AI and building AI-powered workflows that solve real business problems.
 
 ---
 
-# 🌌 CYBERPUNK AI PROFILE
+## Currently Building
 
-<p align="center">
-
-<img width="280" src="https://raw.githubusercontent.com/Aagam30/Aagam30/main/profile.png"/>
-
-</p>
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```yaml
-Name: Aagam Jain
-
-Location: Kota, Rajasthan, India
-
-Role: Data Science & AI Developer
-
-Education:
-  - B.Tech in Computer Science
-  - Arya College of Engineering & IT
-  - CGPA: 8.2 / 10
-
-Focus:
-  - Machine Learning
-  - Generative AI
-  - Data Analytics
-  - NLP
-  - Computer Vision
-  - Cloud AI Systems
-
-Currently Learning:
-  - Advanced DSA
-  - Deep Learning
-  - MLOps
-  - System Design
-  - AI Deployment
-
-Tech Passion:
-  - Smart AI Systems
-  - Futuristic Interfaces
-  - Automation
-  - AI + Cloud Integration
-```
+| Area | What |
+|------|------|
+| 🔷 **Data Engineering** | End-to-end pipelines using Azure Data Factory, Microsoft Fabric, and SQL-based warehouses |
+| 🤖 **AI Systems** | Practical Generative AI integrations and conversational AI agents using Copilot Studio |
+| 📊 **Analytics** | Decision-support dashboards in Power BI backed by dimensional data models |
 
 ---
 
-# 🌐 SOCIALS
+## Tech Stack
 
-<p align="center">
+**Languages**
+`Python` `SQL` `Java`
 
-<a href="https://instagram.com/itz.aagam">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+**Data Engineering**
+`Azure Data Factory` `Microsoft Fabric` `Apache Spark` `ETL` `Data Pipelines` `Data Modeling` `Data Warehousing`
 
-<a href="https://linkedin.com/in/aagam-jain-726147301">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Cloud**
+`Microsoft Azure` `Azure SQL Database`
 
-<a href="mailto:aagam8216@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Analytics & BI**
+`Power BI` `DAX` `Power Query` `Pandas` `NumPy` `Excel`
 
-</p>
+**Power Platform**
+`Power Automate` `Power Pages` `Dataverse` `SharePoint` `Copilot Studio`
 
----
+**Databases**
+`Azure SQL` `SQL Server` `MySQL`
 
-# ⚡ TECH STACK
+**AI**
+`Generative AI` `Prompt Engineering` `AI-assisted Workflows`
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,mongodb,git,github,docker,aws,azure,vscode,figma,blender"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
-
-</p>
+**Tools**
+`Git` `GitHub` `VS Code` `SSMS` `Azure Data Studio`
 
 ---
 
-# 🚀 EXPERIENCE
+## Experience
+
+### IFI Tech Solutions Ltd. — Data Intern
+`May 2026 – June 2026` · Noida, On-site
+
+- Designed and implemented an enterprise Contract Lifecycle Management platform using Power Pages, Dataverse, SharePoint, and Power Automate — covering 300+ contracts across 5+ user roles
+- Built 2 Copilot Studio AI agents for conversational contract assistance within the Microsoft 365 ecosystem
+- Developed Power BI dashboards and automated 5+ approval and document routing workflows
+
+### Edunet Foundation | Microsoft Initiative — AI Azure Intern
+`June 2025 – July 2025` · Remote
+
+- Built a healthcare-focused application using Python and Microsoft Azure for cloud-based data processing and analysis
+- Designed data workflows covering ingestion, transformation, and output delivery on Azure infrastructure
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🏗 Enterprise Retail Data Platform
 
-## 💼 AI Azure Intern
+End-to-end retail data pipeline built for analytical workloads — from raw ingestion to BI reporting.
 
-### 🏢 Edunet Foundation
+**Engineering concept:** Medallion architecture with dimensional modeling and automated Fabric pipelines.
 
-📅 June 2025 – July 2025
+`Azure Data Factory` `Azure SQL` `Microsoft Fabric` `Python` `Power BI`
 
-✨ Worked on real-world datasets  
-✨ Built ML models using Python  
-✨ Performed preprocessing & EDA  
-✨ Used Azure cloud tools  
+[View Repository →][ADD RETAIL PLATFORM REPO LINK]
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 📄 Contract Lifecycle Management Platform
 
-## 🎮 Unity Game Developer Intern
+Enterprise CLM solution with role-based UX, document versioning, automated workflows, and an AI assistant.
 
-### 🏢 TechForce
+**Engineering concept:** Multi-role product design with Power Platform automation and conversational AI.
 
-📅 July 2025 – August 2025
+`Power Pages` `Dataverse` `Copilot Studio` `Power Automate` `Power BI`
 
-✨ Developed gameplay mechanics  
-✨ Worked with Unity & C#  
-✨ Optimized performance  
-✨ Tested Android/iOS builds  
+[View Repository →][ADD CLM REPO LINK]
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 📦 Global Supply Chain Analytics
+
+[ADD BRIEF 1-LINE DESCRIPTION OF THIS PROJECT]
+
+**Engineering concept:** [ADD — e.g. data aggregation, KPI modeling, supply chain metrics]
+
+`Python` `SQL` `Power BI` [ADD REMAINING TECH]
+
+[View Repository →][ADD SUPPLY CHAIN REPO LINK]
+
+</td>
+<td width="50%" valign="top">
+
+### [ADD FOURTH PROJECT IF AVAILABLE]
+
+[Description]
+
+[Tech stack]
+
+[View Repository →][ADD LINK]
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🔥 FEATURED PROJECTS
+## Certifications
 
-<table>
-<tr>
-
-<td width="50%">
-
-<h2>🏥 Health AI Prediction System</h2>
-
-✨ Health Risk Prediction  
-✨ ML Classification Models  
-✨ Data Preprocessing  
-✨ 86% Accuracy  
-✨ Medical Analytics Dashboard  
-
-</td>
-
-<td width="50%">
-
-<h2>🌾 AI Agriculture Decision Support</h2>
-
-✨ Smart Crop Recommendation  
-✨ Weather Data Analysis  
-✨ Soil & Rainfall Analytics  
-✨ Yield Prediction  
-✨ AI Farming Assistance  
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-<h2>🤖 Generative AI Assistant</h2>
-
-✨ AI-based Smart Responses  
-✨ Prompt Engineering  
-✨ NLP Integration  
-✨ Interactive AI Features  
-
-</td>
-
-<td width="50%">
-
-<h2>📊 Data Analytics Dashboard</h2>
-
-✨ Power BI Visualizations  
-✨ Data Insights  
-✨ Interactive Charts  
-✨ Business Analytics  
-
-</td>
-
-</tr>
-
-</table>
+| Certification | Issuer | Details |
+|---|---|---|
+| **Fabric Data Engineer Associate (DP-700)** | Microsoft | Score: 822/1000 · [Verify][ADD DP-700 VERIFICATION LINK] |
+| **Azure Data Fundamentals (DP-900)** | Microsoft | Score: 842/1000 · [Verify][ADD DP-900 VERIFICATION LINK] |
+| **Oracle AI Database Certified Foundations Associate** | Oracle | [Verify][ADD ORACLE VERIFICATION LINK] |
+| **Databricks Fundamentals Accreditation** | Databricks | Lakehouse · Spark · Delta Lake |
+| **NPTEL Gold + Elite — Java** | IIT / NPTEL | 97% · Top 2% of 26,183 learners |
 
 ---
 
-# 🌌 FUTURISTIC AI VISUAL
+## Achievements
 
-<p align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-2f8b4f45-7ad3-4c28-8f4c-8dcb65d2b3f8.gif">
-
-</p>
+- 🏅 **NPTEL Java — Top 2% Nationally** — Scored 97% among 26,183 learners; awarded Gold + Elite
+- 🏆 **1st Place — Scintillation Esports Tournament**
+- 🏆 **2nd Place — Arya Cup Cricket Tournament**
 
 ---
 
-# 📊 GITHUB STATS
+## GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aagam30&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aagam30&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagam30&layout=compact&theme=default&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagam30&theme=tokyonight&hide_border=true&layout=compact"/>
+</div>
 
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagam30&theme=minimal&hide_border=true&area=true"/>
 
-# 🔥 GITHUB STREAK
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Aagam30&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+<div align="center">
 
-<p align="center">
+**Let's build something useful.**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aagam30&theme=tokyo-night&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aagamjain18)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aagam8216@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aagam30)
 
-</p>
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aagam30&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💻 LIVE CODING ZONE
-
-<p align="center">
-
-<img width="700" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-</p>
-
----
-
-# 🧠 LEETCODE STATS
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest"/>
-
-</p>
-
----
-
-# 📜 CERTIFICATIONS & ACHIEVEMENTS
-
-🏅 NPTEL Gold + Elite in Java  
-🏅 Top 2% among 26,183 Candidates  
-🏅 NPTEL Elite Certification in C  
-🏅 HP Data Science Certification  
-🏅 Gold Medal in Technical Competition  
-🏅 Silver Medal in Inter-College Event  
-
----
-
-# ☕ CURRENTLY LEARNING
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,docker,aws,azure"/>
-
-</p>
-
----
-
-# 🎯 2026 GOALS
-
-✅ Master DSA & Problem Solving  
-✅ Build Advanced AI Projects  
-✅ Learn Deep Learning  
-✅ Crack Top AI Internship  
-✅ Build AI SaaS Products  
-✅ Contribute to Open Source  
-
----
-
-# 🌟 RANDOM DEV QUOTE
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎨 CYBER GLASSMORPHISM
-
-<p align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750642-79fba4d9-4e7f-4910-a5df-91bcb5cb7f5.gif"/>
-
-</p>
-
----
-
-<h1 align="center">
-
-🔥 CODE • LEARN • BUILD • INNOVATE 🚀
-
-</h1>
+</div>
